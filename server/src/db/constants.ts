@@ -1,5 +1,4 @@
 import mongoose from 'mongoose';
-import { ConnectOptions } from 'mongoose';
 import '../helpers/env.js';
 
 const dbName = process.env.MONGODB_NAME;
